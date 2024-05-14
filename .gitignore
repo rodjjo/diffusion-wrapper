@@ -1,0 +1,10 @@
+**/__pycache__
+venv/
+__pycache__/
+*.pyc
+*.cfg
+*.jpg
+*.png
+*.mp4
+*.avi
+*.bmp

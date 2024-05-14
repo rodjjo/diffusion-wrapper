@@ -1,0 +1,1 @@
+from .annotator import annotator_group # noqa
